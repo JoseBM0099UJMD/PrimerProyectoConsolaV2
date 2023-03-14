@@ -57,6 +57,7 @@ public class Accesologin {
             
             System.out.println(Arrays.asList(usuario));
             
+            
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
