@@ -20,7 +20,7 @@ public class Venta {
     private String precio;
     ///private int id;
 
-    public void venta() {
+ /*   public void venta() {
         Catalogo catalogo = new Catalogo();
         catalogo.getCodigo();
         ///int[] id = catalogo.getCodigo();
@@ -36,6 +36,7 @@ public class Venta {
         PrintWriter pw = null;
 
         Scanner scanner = new Scanner(path);
+      
 
         try {
 
@@ -57,7 +58,7 @@ public class Venta {
             }
         }
     }
-
+*/
     
     public void ventas(){
         Catalogo catalogo = new Catalogo();
@@ -74,8 +75,13 @@ public class Venta {
         PrintWriter pw = null;
 
         Scanner scanner = new Scanner(path);
-
-        try {
+        int agregar = 0;
+        
+        
+        
+        
+               
+            try {
             double descuento = 0.03;
          
 
@@ -375,15 +381,17 @@ public class Venta {
                 e2.printStackTrace();
             }
         }
-        ///Para volver al menu, vuleve a pedir contraseña
-        Menu menu = new Menu();
-        menu.menu();
+        
+            System.exit(0);
+
+        
+        
     }
     
     public static void main(String[] args) {
         
-        Venta vent = new Venta();
-        vent.ventas();
+        ///Venta vent = new Venta();
+        ///vent.ventas();
 
     }   
      

@@ -42,9 +42,12 @@ public class Menu {
                     catalogo.Catalogo();
                     break;
                 case 3:
+                    ModificarClave clave = new ModificarClave();
+                    clave.modificarClave();
                     break;
                 case 4:
                     System.out.println("Saliendo del programa");
+                    System.exit(0);
                     break;
             }
         }
