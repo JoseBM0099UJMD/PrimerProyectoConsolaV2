@@ -1,0 +1,23 @@
+        Scanner leer = new Scanner(System.in);
+        int opcion = 0;
+
+        System.out.println("Menu de Opciones");
+        System.out.println("1. Venta nueva");
+        System.out.println("2.Consultar inventarios");
+        System.out.println("3.Cambiar contrasena");
+        System.out.println("4.Salir del sistema");
+
+        opcion = leer.nextInt();
+
+        switch (opcion) {
+
+            case 1:
+                break;
+
+            case 2:
+                break;
+            case 3:
+                break;
+            case 4:
+                break;
+        }
