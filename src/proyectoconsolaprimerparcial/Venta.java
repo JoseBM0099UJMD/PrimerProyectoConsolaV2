@@ -126,7 +126,7 @@ public class Venta {
 
                     pw.println("Factura de compra\n" + "Computadoras Diego\n ");
                     pw.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
-                    pw.println(fecha.getDate()); 
+                    pw.println(fecha); 
 
 
                     System.out.println("Factura de compra\n" + "Computadoras Diego\n ");
@@ -155,7 +155,7 @@ public class Venta {
 
                     pw.println("Factura de compra\n" + "Computadoras Diego\n ");
                     pw.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
-                    pw.println(fecha.getDate()); 
+                    pw.println(fecha); 
 
                     System.out.println("Factura de compra\n" + "Computadoras Diego\n ");
                     System.out.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
@@ -182,7 +182,7 @@ public class Venta {
 
                     pw.println("Factura de compra\n" + "Computadoras Diego\n ");
                     pw.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
-                    pw.println(fecha.getDate()); 
+                    pw.println(fecha); 
 
                     System.out.println("Factura de compra\n" + "Computadoras Diego\n ");
                     System.out.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
@@ -209,7 +209,7 @@ public class Venta {
 
                     pw.println("Factura de compra\n" + "Computadoras Diego\n ");
                     pw.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
-                    pw.println(fecha.getDate()); 
+                    pw.println(fecha); 
 
                     System.out.println("Factura de compra\n" + "Computadoras Diego\n ");
                     System.out.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
@@ -236,7 +236,7 @@ public class Venta {
 
                     pw.println("Factura de compra\n" + "Computadoras Diego\n ");    
                     pw.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
-                    pw.println(fecha.getDate()); 
+                    pw.println(fecha); 
 
                     System.out.println("Factura de compra\n" + "Computadoras Diego\n ");
                     System.out.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
@@ -263,7 +263,7 @@ public class Venta {
 
                     pw.println("Factura de compra\n" + "Computadoras Diego\n ");
                     pw.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
-                    pw.println(fecha.getDate()); 
+                    pw.println(fecha); 
 
                     System.out.println("Factura de compra\n" + "Computadoras Diego\n ");
                     System.out.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
@@ -289,7 +289,7 @@ public class Venta {
 
                     pw.println("Factura de compra\n" + "Computadoras Diego ");
                     pw.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
-                    pw.println(fecha.getDate()); 
+                    pw.println(fecha); 
 
                     System.out.println("Factura de compra\n" + "Computadoras Diego\n ");
                     System.out.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
@@ -316,7 +316,7 @@ public class Venta {
 
                     pw.println("Factura de compra\n" + "Computadoras Diego\n ");
                     pw.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
-                    pw.println(fecha.getDate()); 
+                    pw.println(fecha); 
 
                     System.out.println("Factura de compra\n" + "Computadoras Diego\n ");
                     System.out.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
@@ -343,7 +343,7 @@ public class Venta {
 
                     pw.println("Factura de compra\n" + "Computadoras Diego\n ");
                     pw.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
-                    pw.println(fecha.getDate()); 
+                    pw.println(fecha); 
 
                     System.out.println("Factura de compra\n" + "Computadoras Diego\n ");
                     System.out.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
@@ -370,7 +370,7 @@ public class Venta {
 
                     pw.println("Factura de compra\n" + "Computadoras Diego\n ");
                     pw.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);
-                    pw.println(fecha.getDate()); 
+                    pw.println(fecha); 
 
                     System.out.println("Factura de compra\n" + "Computadoras Diego\n ");
                     System.out.println(id + "-" + nombre + "      " + cantidad + "  x   " + "$" + precio + "    =   " + total);

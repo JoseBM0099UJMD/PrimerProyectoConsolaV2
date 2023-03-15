@@ -16,7 +16,6 @@ import java.util.Arrays;
 public class Inventario {
     public void inventarioporID() {
         Catalogo catalogo = new Catalogo();
-        catalogo.Catalogo();
         String[] productos = catalogo.Productos();
 
         Scanner teclado = new Scanner(System.in);
@@ -35,9 +34,10 @@ public class Inventario {
                         
                     
                     String nombre = productos[1];
+                    String cantidad = productos[3];
                                         
-                    System.out.println("Producto :");
-                    System.out.println(id + nombre);
+                    System.out.println("Producto :" + "     "+ "Cantidad :");
+                    System.out.println(id + nombre + "      "+ cantidad);
                     encontrado = true;
                     break;
 
@@ -47,9 +47,10 @@ public class Inventario {
                         
                     
                     String nombre = productos[5];
+                    String cantidad = productos[7];
                                         
-                    System.out.println("Producto :");
-                    System.out.println(id + nombre);
+                    System.out.println("Producto :" + "     "+ "Cantidad :");
+                    System.out.println(id + nombre + "      "+ cantidad);
                     encontrado = true;
                     break;
 
@@ -59,9 +60,10 @@ public class Inventario {
                         
                     
                     String nombre = productos[9];
+                    String cantidad = productos[11];
                                         
-                    System.out.println("Producto :");
-                    System.out.println(id + nombre);
+                    System.out.println("Producto :"+ "     "+ "Cantidad :");
+                    System.out.println(id + nombre + "      "+ cantidad);
                     encontrado = true;
                     break;
 
@@ -71,9 +73,10 @@ public class Inventario {
                         
                     
                     String nombre = productos[13];
+                    String cantidad = productos[15];
                                         
-                    System.out.println("Producto :");
-                    System.out.println(id + nombre);
+                    System.out.println("Producto :"+ "     "+ "Cantidad :");
+                    System.out.println(id + nombre + "      "+ cantidad);
                     encontrado = true;
                     break;
 
@@ -83,9 +86,10 @@ public class Inventario {
                         
                     
                     String nombre = productos[17];
+                    String cantidad = productos[19];
                                         
-                    System.out.println("Producto :");
-                    System.out.println(id + nombre);
+                    System.out.println("Producto :"+ "     "+ "Cantidad :");
+                    System.out.println(id + nombre + "      "+ cantidad);
                     encontrado = true;
                     break;
 
@@ -95,9 +99,10 @@ public class Inventario {
                         
                     
                     String nombre = productos[21];
+                    String cantidad = productos[23];
                                         
-                    System.out.println("Producto :");
-                    System.out.println(id + nombre);
+                    System.out.println("Producto :"+ "     "+ "Cantidad :");
+                    System.out.println(id + nombre + "      "+ cantidad);
                     encontrado = true;
                     break;
 
@@ -107,9 +112,10 @@ public class Inventario {
                         
                     
                     String nombre = productos[25];
+                    String cantidad = productos[27];
                                         
-                    System.out.println("Producto :");
-                    System.out.println(id + nombre);
+                    System.out.println("Producto :"+ "     "+ "Cantidad :");
+                    System.out.println(id + nombre + "      "+ cantidad);
                     encontrado = true;
                     break;
 
@@ -119,9 +125,10 @@ public class Inventario {
                         
                     
                     String nombre = productos[29];
+                    String cantidad = productos[31];
                                         
-                    System.out.println("Producto :");
-                    System.out.println(id + nombre);
+                    System.out.println("Producto :"+ "     "+ "Cantidad :");
+                    System.out.println(id + nombre + "      "+ cantidad);
                     encontrado = true;
                     break;
 
@@ -131,9 +138,10 @@ public class Inventario {
                         
                     
                     String nombre = productos[33];
+                    String cantidad = productos[35];
                                         
-                    System.out.println("Producto :");
-                    System.out.println(id + nombre);
+                    System.out.println("Producto :"+ "     "+ "Cantidad :");
+                    System.out.println(id + nombre + "      "+ cantidad);
                     encontrado = true;
                     break;
 
@@ -143,9 +151,10 @@ public class Inventario {
                         
                     
                     String nombre = productos[37];
+                    String cantidad = productos[39];
                                         
-                    System.out.println("Producto :");
-                    System.out.println(id + nombre);
+                    System.out.println("Producto :"+ "     "+ "Cantidad :");
+                    System.out.println(id + nombre + "      "+ cantidad);
                     encontrado = true;
                     break;
 
@@ -166,7 +175,8 @@ public class Inventario {
 
     
     public void InventarioTodos(){
-        
+        Catalogo catalogo = new Catalogo();
+        catalogo.Catalogo();
     }
     
     public static void main(String[] args) {

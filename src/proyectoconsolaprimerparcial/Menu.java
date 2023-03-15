@@ -38,8 +38,21 @@ public class Menu {
                     break;
 
                 case 2: ///Consultar inventario
-                    Catalogo catalogo = new Catalogo();
-                    catalogo.Catalogo();
+                    Scanner teclado = new Scanner(System.in);
+
+                    int Opcion = 0;
+                    System.out.println("si quiere ver el inventario completo digite 1 para ver 'TODOS' y 2 para buscar por ID \n");
+                    Opcion = teclado.nextInt();
+                    if(Opcion==1){
+                        Inventario inventario = new Inventario();
+                        inventario.InventarioTodos();
+                    }
+                    else{
+                        
+                    
+                    Inventario inventario = new Inventario();
+                    inventario.inventarioporID();
+                    }
                     break;
                 case 3:
                     ModificarClave clave = new ModificarClave();
