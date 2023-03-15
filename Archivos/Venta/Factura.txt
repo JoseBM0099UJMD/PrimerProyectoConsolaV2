@@ -2,3 +2,38 @@ Factura de compra
 Computadoras Diego
  
 9-Teclado-y-Mouse-Gamer-luces      3  x   $69.99    =   209.96999999999997
+Factura de compra
+Computadoras Diego
+ 
+1-Monitor-4k      1  x   $699.99    =   699.99
+Tue Mar 14 19:44:20 CST 2023
+Factura de compra
+Computadoras Diego
+ 
+1-Monitor-4k      2  x   $699.99    =   1399.98
+Tue Mar 14 19:45:24 CST 2023
+Factura de compra
+Computadoras Diego
+ 
+1-Monitor-4k      2  x   $699.99    =   1399.98
+Tue Mar 14 19:46:52 CST 2023
+Factura de compra
+Computadoras Diego
+ 
+1-Monitor-4k      1  x   $699.99    =   699.99
+Tue Mar 14 20:00:08 CST 2023
+Factura de compra
+Computadoras Diego
+ 
+1-Monitor-4k      2  x   $699.99    =   1399.98
+Tue Mar 14 20:00:42 CST 2023
+Factura de compra
+Computadoras Diego
+ 
+1-Monitor-4k      1  x   $699.99    =   699.99
+Tue Mar 14 20:09:06 CST 2023
+Factura de compra
+Computadoras Diego
+ 
+1-Monitor-4k      2  x   $699.99    =   1399.98
+Tue Mar 14 20:09:19 CST 2023

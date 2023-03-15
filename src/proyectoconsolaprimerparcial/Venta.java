@@ -399,7 +399,10 @@ public class Venta {
             }
         }
         
-            System.exit(0);
+            ///System.exit(0);
+        Menu menu = new Menu(1);
+
+        menu.menu();
 
         
         
